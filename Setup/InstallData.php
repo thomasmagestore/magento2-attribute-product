@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @Author: Ngo Quang Cuong
+ * @Author: Doan Dinh Dat
  * @Date:   2017-06-30 14:24:21
  * @Last Modified by:   nquangcuong
  * @Last Modified time: 2017-06-30 14:24:40
@@ -14,6 +14,10 @@ use Magento\Framework\Setup\InstallDataInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
 use Magento\Framework\Setup\ModuleDataSetupInterface;
 
+/**
+ * Class InstallData
+ * @package PHPCuong\ProductAttributes\Setup
+ */
 class InstallData implements InstallDataInterface
 {
     /**
