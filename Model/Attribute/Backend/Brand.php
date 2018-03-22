@@ -1,9 +1,9 @@
 <?php
 
 /**
- * @Author: Ngo Quang Cuong
+ * @Author: Doan Dinh Dat
  * @Date:   2017-06-30 14:32:31
- * @Last Modified by:   nquangcuong
+ * @Last Modified by:   doandinhdat
  * @Last Modified time: 2017-06-30 14:32:48
  * @website: http://giaphugroup.com
  */
